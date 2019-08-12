@@ -1,4 +1,4 @@
-# [Valid inputs : 1 to 9]  [Opened cells : 'O'] [Mine cell : 'X']
+# [Valid inputs are 1 to 9] [Opened cells will be marked as 'O'] [Mine cell as 'X']
 
 import pandas as pd
 import sys
