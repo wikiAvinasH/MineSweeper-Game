@@ -4,10 +4,12 @@ The goal is that, a user needs to find the location of the secret mine that has 
 
 This is based on 3*3 DataFrame matrix and here the visual representation of the minefield matrix.
 
+![alt test](https://github.com/wikiAvinasH/GitHub-Repo-Folder/blob/master/MineSweeper.JPG)
+
 ## Requirement and Rules of the Game
 
 * [Valid inputs are 1 to 9] [Opened cells will be marked with 'O'] [Mine cell as 'X'] 
-Create a 3*3 DataFrame matrix filled with 1-9 (Please refer the visual representation minefield matrix, highlighted in Red color)
+* Create a 3*3 DataFrame matrix filled with 1-9 (Please refer the visual representation minefield matrix, highlighted in Red color)
 * Hide the location of the mine in "one" specific cell
 * The goal of the game is to open all the “safe cells”
 * If user opened cell has the mine then the user loses.
